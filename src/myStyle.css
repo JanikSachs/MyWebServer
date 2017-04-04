@@ -1,0 +1,20 @@
+* {
+    background: rgba(4, 138, 200, 0.5);
+    font-family: "Lucida Sans Unicode";
+}
+
+h1 {
+    color: darkblue;
+}
+
+.circleoff:before {
+    content: ' \25CF';
+    font-size: 25px;
+    color: darkblue;
+}
+
+.circleon:before {
+    content: ' \25CF';
+    font-size: 25px;
+    color: limegreen;
+}
